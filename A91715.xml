@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The revievv of the propositions presented to His Majesty by the Parliaments of both Kingdomes, for a safe and well-grounded peace.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91715</idno><idno type="EEBO-CITATION">99863991</idno>
+  <idno type="VID">116209</idno>
+  <idno type="EEBO-PROQUEST">2248545930</idno>
+  
+            <idno type="STC">Wing R1198</idno>
+            <idno type="STC">Thomason E414_7</idno>
+            <idno type="STC">ESTC R204502</idno>
+            <idno type="PROQUEST">99863991</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863991e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116209)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E414[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The revievv of the propositions presented to His Majesty by the Parliaments of both Kingdomes, for a safe and well-grounded peace.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: By a lover of his country, and a wel-willer to the peace of the Kingdome.</note>
+                  <note>Annotation on Thomason copy: "Nou: 12. 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116209:1"/>
+            <p>THE REVIEVV OF THE PROPOSITIONS PRESENTED TO HIS MAJESTY BY THE <hi>Parliaments of both Kingdomes,</hi> FOR A Safe and Well-grounded PEACE.</p>
+            <q>
+               <bibl>Jam. 4.1, 2, 3.</bibl>
+               <p>From whence come Warres, and fightings among you? come they not hence, even of your lusts, that warre in your members?</p>
+               <p>Ye lust, and have not: ye kill, and desire to have, and cannot obtaine: ye fight and warre, yet ye have not, because ye aske not. Ye aske and receive not, because ye aske amisse that ye may consume it upon your lusts.</p>
+            </q>
+            <p>
+               <add>Nou: 12 1647</add> Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116209:2"/>
+            <pb n="1" facs="tcp:116209:2"/>
+            <head>A Re-view of the PROPOSITIONS PRESENTED To His MAjESTIE, &amp;c.</head>
+            <p>FOr Introduction, know,<note place="margin">T<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ction.</note> That a Factious party in the Parliament of <hi>England</hi> brought in two Bills to tak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away Bishops, and to take the Militia from the King, which being rejected in a full and free Convention of Parliament, were afterward revi<g ref="char:EOLhyphen"/>ved, and promoted by Tumultuous people, in, and about <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> who drove away the dissenting Members of Parlia<g ref="char:EOLhyphen"/>ment, and so the Bills passed both Houses, to which, they desire the Royall Assent; and, His Majestie refusing, they took up Arms, to force him, as before they had the Houses: and, when they were likely to be overcome, they call in the <hi>Scots</hi> to their assistance, and joyne in League and Cove<g ref="char:EOLhyphen"/>nant with them: and, when they had vanquished the King, and His Partie, the Parliaments of both Kingdomes pre<g ref="char:EOLhyphen"/>sented these to His Majestie: whereof,</p>
+            <p n="1">1. Some Propositions are Antecedent to the Warre,<note place="margin">The Pr<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tions of <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> sorts.</note> and containe the first cause and grounds of it, and set forth the designe of the Proposers agitated before, and prose<g ref="char:EOLhyphen"/>cuted by the Warre. <hi>As the</hi> (3) <hi>for taking away Bishops in</hi> England <hi>and</hi> Ireland;<note place="margin">See the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> position <hi>June</hi> 2. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>
+               <hi>the</hi> (13) <hi>for se<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling the Militia of</hi> England <hi>and</hi> Ireland <hi>in the two Houses of Parliament: That part of the</hi> (17) <hi>That the Houses shall nominate the great Officers in the Kingdomes of</hi> England <hi>and</hi> Ireland. <hi>And the</hi> (14) <hi>That no Peers made since the Lord</hi> Littleton <hi>carried away the great Scale (which was</hi> May 20, 1642.) <hi>or to be made hereafter, shall sit, and vote in Parliament without the consent of both Houses of Parliament.</hi>
+            </p>
+            <pb n="2" facs="tcp:116209:3"/>
+            <p>The (7, 8, 9, and 10.) concerning Papists, and the (12) for suppressing Innovations, &amp;c. I insist not on, because His Majestie assented to them before Armes taken up, and so they can be no cause of the Warre.</p>
+            <p n="2">2. Some Propositions are concurrent with, and emergent upon the Warre, and set forth the meanes used by the Pro<g ref="char:EOLhyphen"/>posers to promote their designe and Warre: <hi>As the</hi> (4) <hi>for confirming the Ordinances for calling the Assembly of Di<g ref="char:EOLhyphen"/>vines: The</hi> (2) <hi>for taking the Covenant. The</hi> (5, 6, <hi>and part of the</hi> 17.) <hi>for Reformation, and Un<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>formitie in Religion in the Kingdomes of</hi> England <hi>and</hi> Ireland, <hi>according to the Cove<g ref="char:EOLhyphen"/>nant. The</hi> (15) <hi>for confirming the Treaties betweene the two Kingdomes. The</hi> (17) <hi>That the power and government of the Militia, and Tower of</hi> London, <hi>shall be setled in the Lord Ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, &amp;c.</hi>
+            </p>
+            <p n="3">3. Some Propositions are subsequent to the Warre, and serve to secure the Proposers (both now, and hereafter) and their partie, and their designe, not onely by Act of Parlia<g ref="char:EOLhyphen"/>ment, but by Military force and power also: <hi>As the</hi> (1) <hi>That the King declare Null all His Declarations and Pro<g ref="char:EOLhyphen"/>clamations, and all Judiciary proceedings against them, had, and made, or to be had, and made. And the</hi> (19) <hi>for confirm<g ref="char:EOLhyphen"/>ing all that hath passed under their Great Seale, and for Nulling whatsoever hath passed under the other Seale since</hi> May 20, 1642. <hi>and under the Great Seale of</hi> Ireland, <hi>since</hi> September 15, 1643. <hi>And the</hi> (16) <hi>concerning their pro<g ref="char:EOLhyphen"/>ceedings with Delinquents (as they call them.) And that part of the</hi> (12. <hi>and</hi> 13.) <hi>for the two Houses of Parliament to raise moneys as they please in future, for the payment of Souldiers, and of the publike debts, and damages of the Kingdomes. And to all, and every of these Propositions, the Parliaments of both Kingdoms desire His Majesties Assent: And that they</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e this, <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ts <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>presse <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>posi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on the <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>Eng<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eland.</hi>
+               </note>
+               <hi>and all such Bills as shall be tendered to Him in pursuance of them, or any of them, may be established by Act of Parliament.</hi>
+            </p>
+            <p>And so what the Parliament of <hi>England</hi> (as they will be called) could not doe fingly, the Parliaments of both King<g ref="char:EOLhyphen"/>domes undertake joyntly, <hi>viz.</hi> To overthrow the Ancient
+<pb n="3" facs="tcp:116209:3"/> Constitution of the Kingdom, both in respect of the Church and of the State: And to take away the power and Govern<g ref="char:EOLhyphen"/>ment from the King, &amp; to settle it in the two Houses of Par<g ref="char:EOLhyphen"/>liament, and to establish it by Act of Parliament: Also they desire severall other Acts to passe for making good their former proceedings in the prosecution of that establish<g ref="char:EOLhyphen"/>ment, and to make good the establishment it selfe, in case of opposition, or disturbance hereafter. <hi>And this is the safe and wel-grounded Peace</hi> they speak of, and have fought for.</p>
+            <p>
+               <hi>Additionall</hi> 1. Or rather (howsoever they phrase it) this is the safe and wel-grounded domination that they affect, and contend for.</p>
+            <p>But how can they expect,<note place="margin">Why th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cannot a<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> to the Pr<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tions.</note> that the King should give His Assent to these their Propositions, and that he should passe and Enact them? That He should give up His Power, and Protection, and Government of the People, wherewith God hath intrusted Him? That he should destroy Bishops, being bound by his Coronation Oath to defend them? That he should renounce His righteous Cause in rescuing His Kingly Power, and vindicating the freedom of Parliament, and Subject, and upholding the Constitution and Govern<g ref="char:EOLhyphen"/>ment of the Kingdome? That He should ruine that Loyall Partie of the Nobilitie and Gentry, and those faithfull Pa<g ref="char:EOLhyphen"/>triots that adhered to Him in the late Warre, on behalfe of the Crowne, the Parliament the Subject, and the Kingdom? That he should justifie, and make a president of their most unwarrantable Armes and proceedings against Him? That He should debase His Royall Government and Succession, and enslave His good Subjects irrecoverably to all posterity?</p>
+            <p>Againe,<note place="margin">Why the <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ple will admit of Proposit<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note> how can they expect that the people should ap<g ref="char:EOLhyphen"/>prove of these their Propositions, tending onely to the ad<g ref="char:EOLhyphen"/>vancing of the power of two Houses of Parliament, without any regard to the Subject, or the Lawes, or the Li<g ref="char:EOLhyphen"/>berties of the Kingdome? I say, how can they expect, that the people should approve or admit of them, and forgoe our ancient, knowne, regall Government by Lawes and Justice, and to submit to a Parliamentary, Military, Arbitra<g ref="char:EOLhyphen"/>ry Governmen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by will and power? And withall, to expose
+<pb n="4" facs="tcp:116209:4"/> themselves to the violent insults of parties and factions, and to the pride and insolence of particular persons? For such hath beene the Government, and such our condition for th se foure or five yeares last past, and likely to be (for ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht I see) for many Generations to come. And should His Majestie passe the Propositions, as is desired, Tyranny would be incorporated into our very Constitution and Govern<g ref="char:EOLhyphen"/>ment, and our slavery would be both grievous (lying under the power of a Legion of Tyrants) and remedilesse, being tyed to it by Act of Parliament.</p>
+            <p>
+               <hi>Addit.</hi> 2. And so upon due consideration are their prin<g ref="char:EOLhyphen"/>cipall Propositions prejudiciall to the King and people e<g ref="char:EOLhyphen"/>quall.</p>
+            <p>For, first, They will not onely take away the Function, but the Lands also of the Bishops, and the Lands of the Deanes and Chapters also: Thereby at once robbing the King of that Revenue which accrued to the Crowne by their first fruits, and Tenths, but defrauding the people also of these Preferments for their children, and childrens chil<g ref="char:EOLhyphen"/>dren to be Educated in the study of Divinity.</p>
+            <p>Secondly, They doe not onely demand the Militia, but resolve to keepe standing Forces in the Kingdome: There<g ref="char:EOLhyphen"/>by not onely invading the Rights of the Crowne, and the mature Libertie of the Subject, but prejudicing also the se<g ref="char:EOLhyphen"/>curitie of both: For by our Fundamentall constitution there ought to be no other constant Forces in the Kingdome but the Militia, or the Trained Bands onely; And herein con<g ref="char:EOLhyphen"/>sists our Libertie and Securitie, that our selves onely are to be Armed, for defence of our selves and the Kingdome: But if they Constitute and continue other standing Forces, how can we free or be secure in our persons or estates?</p>
+            <p>
+               <hi>Luk.</hi> 21.22. <hi>When a strong man armed keepeth his Palace, his Goods are in peace: But when a stronger then he will come upon him, and overcommeth him, he taketh from him all his armor wherein he trusted, and divideth his spoiles.</hi>
+            </p>
+            <p>Thirdly, Whereas they desire the Nomination of the Judges, and of the great Officers of State; Thereby they injure both the King and the People, rendring them unca<g ref="char:EOLhyphen"/>pable
+<pb n="5" facs="tcp:116209:4"/> of reliefe in case of Injustice or oppression by those their Judges and Officers, seeing that by the same meanes and relation they will get themselves protected, by which at first they procured themselves to be Nominated by the two Houses of Parliament.</p>
+            <p>Fourthly, Whereas they desire, That the King should Null all his and confirme their Declarations and Proceedings; This would be a most pernicious president both to the King and the People; And hence at any time would a Fa<g ref="char:EOLhyphen"/>ctious Partie in the Parliament and Kingdome be encoura<g ref="char:EOLhyphen"/>ged, and warranted, to Propose and demand whatsoever they list, and to take up Armes and embroile us in Warre, for prosecution of their desires and demands.</p>
+            <p>Fifthly, And lastly, Whereas they desire, that not onely these Precise Propositions, <hi>but all Bills in pursuance of them, or any of them may be established by Act of Parliam<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt.</hi> Un<g ref="char:EOLhyphen"/>der this Notion and Relation they may enact against the King, and impose upon the Subject what we cannot appre<g ref="char:EOLhyphen"/>hend, and they dare not expresse. But I beleeve they offer these unreasonable Propositions to His Majestie not to passe them, but to deny them, that so they may have some colour of further Quarrell with him, and attempt (if they dare) their last and worst against him.</p>
+            <p>And now let the world judge who they are that hinder the peace of this miserably distracted Kingdome,<note place="margin">Who <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that h<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Peace <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Kingd<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> (which cannot be setled but by a peaceable agreement between the King, the Parliament, and the people) whether his Majesty who refuseth these Propositions, (so destructive to his owne and the peoples interests) or they who in prosecution of their English Scottish designes—</p>
+            <p>
+               <hi>Addit.</hi> 3. Will not lay down Armes unlesse his Majesty submit and sub-ingate himselfe and the people, to the do<g ref="char:EOLhyphen"/>mination, no Peace, or rather a peaceable settlement of their domination, being the summe of their Propositions, and scope of their Warre.</p>
+            <p>And the truth is, the Parliament-men generally having made such advantages upon the King and upon the people by their late Government, are not willing to forgoe it, but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esolve almost unanimously to continue it, either by Law,
+<pb n="6" facs="tcp:116209:5"/> (if his Majestie passe those) or by force,<note place="margin">
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>se Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ns they <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>t stile <gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>lves his <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ies, <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s.</note> (if he refuse them) and Subjects againe they would not be, least they become liable to questioning, accompting, &amp;c.</p>
+            <p>And should Majestie condescend to their desires, and put all into their hands, would they not quarrell about the sha<g ref="char:EOLhyphen"/>ring of it? As they have hitherto contended with his Maje<g ref="char:EOLhyphen"/>stie for the Power and Government, so from henceforth would not the Factious contend amongst themselves for the Administration of that Power, and thereby also disturb the peace of the Kingdome as at this day.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the on<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>es of <hi>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sa.</hi> 32.</note>The onely meanes of Peace indeed, is Justice, to give to every one his owne; to the King his owne, to the Parlia<g ref="char:EOLhyphen"/>ment their owne, to the people their owne: And I shall be<g ref="char:EOLhyphen"/>lieve they intend the Peace of the Kingdome indeed, when they goe the way of Peace, and offer or accept just and righteou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Proposalls.</p>
+            <p>
+               <hi>Addit.</hi> 4. But the King must not be restored to his Rights, nor returne to his Parliament, before the people have satis<g ref="char:EOLhyphen"/>faction and securitie for all the Blood and Treasure expen<g ref="char:EOLhyphen"/>ded in this Warre.</p>
+            <p>Undoubtedly they are satisfied, that this expence hath beene to make good your Propositions. (1.) To overthrow the Ancient Government of the Church and State, and to set up your domination in both. And the securitie they de<g ref="char:EOLhyphen"/>sire and thirst for, is an Act of Oblivion, and a Generall Pardon upon his Majesties returne to the Parliament, which you will not permit, but keepe them still under their guilt, that they may adhere to you for protection and not close with his Majestie, (as its probable they would) upon his Gracious Pardon.</p>
+            <p>But they cannot be safe, unlesse these their desires be granted.</p>
+            <p>
+               <hi>Addit.</hi> 5. Yes, they may, if they will be content with safetie without dominion: An Act of Oblivion and a Ge<g ref="char:EOLhyphen"/>nerall Pardon would save them for what is past; and the A<g ref="char:EOLhyphen"/>postles admonition observed for the time to come, <hi>Wilt thou not be afraid of the Powers? Doe that which is good, and thou shalt have praise of the same,</hi> Rom. 13.3.</p>
+            <byline>By a Lover of his Country, and a wel-willer to the Peace of the Kingdome.</byline>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
